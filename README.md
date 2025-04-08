@@ -87,4 +87,3 @@ To enable automatic deployments to Vercel, you need to:
 - Axios - HTTP client for fetching web pages
 - Cheerio - HTML parsing and manipulation
 - Vanilla JavaScript for frontend functionality
-- Jest, Supertest, and Nock for testing
